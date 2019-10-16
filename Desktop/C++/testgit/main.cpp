@@ -10,5 +10,6 @@ int main() {
     cin >> a >> b;
     int liczba = 5;
     wynik = a + b;
+    //i tak nie zadziałą
     return 0;
 }
