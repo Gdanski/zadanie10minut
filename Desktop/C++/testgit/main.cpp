@@ -11,5 +11,6 @@ int main() {
     int liczba = 5;
     wynik = a + b;
     //i tak nie zadziałą
+    //halo
     return 0;
 }
