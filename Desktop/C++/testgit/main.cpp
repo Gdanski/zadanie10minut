@@ -5,6 +5,7 @@ using namespace std;
 int main() {
     cout << "Hello, World!";
     cout << " Podaj liczbe";
+    int h = 91289;
     int a, b;
     int wynik = 0;
     cin >> a >> b;
